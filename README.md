@@ -2,7 +2,10 @@
 
 Welcome to my Codepen Gallery! Here, you'll find a collection of my creative projects and experiments hosted on [Codepen](https://codepen.io/). Feel free to explore, fork, or get inspired by the code snippets and web designs I've created. 🎨✨
 
-![Python Version](https://img.shields.io/badge/python-%3E%3D3.6-blue.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents 📜
