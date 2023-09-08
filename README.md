@@ -2,6 +2,9 @@
 
 Welcome to my Codepen Gallery! Here, you'll find a collection of my creative projects and experiments hosted on [Codepen](https://codepen.io/). Feel free to explore, fork, or get inspired by the code snippets and web designs I've created. 🎨✨
 
+![Python Version](https://img.shields.io/badge/python-%3E%3D3.6-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Table of Contents 📜
 
 - [Overview 🌟](#overview)
@@ -20,23 +23,40 @@ In this repository, I've curated a selection of my best work from [Codepen](http
 
 Here are some of the exciting projects you'll find in this gallery:
 
-1. **Project Name** - [View Demo](insert-codepen-link-here) | [Code](insert-github-link-here)
-   - Description: A brief description of the project and its purpose.
-   - Technologies: List the technologies or libraries used. 💻🔧
+1. **Fluid Sim** 
+   - Description: A fluid simulation.
+   - Technologies:
+     
+     ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-2. **Project Name** - [View Demo](insert-codepen-link-here) | [Code](insert-github-link-here)
-   - Description: A brief description of the project and its purpose.
-   - Technologies: List the technologies or libraries used. 💻🔧
+2. **Stack** 
+   - Description: Stack blocks to build the taller stack.
+   - Technologies:
 
-3. **Project Name** - [View Demo](insert-codepen-link-here) | [Code](insert-github-link-here)
-   - Description: A brief description of the project and its purpose.
-   - Technologies: List the technologies or libraries used. 💻🔧
+     ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+3. **Hexadecimal Hangman** 
+   - Description: Test your coding knowledge in this "hex"-guesser game
+   - Technologies:
+
+     ![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
+     ![Stylus](https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white)
+     ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+
+4. **The Cube** 
+   - Description: Solve the rubik's cube and share your best time!
+   - Technologies:
+
+     ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+     ![Three.JS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 Don't hesitate to explore and give these projects a try! Feedback and contributions are always welcome. 🙌
 
 ## Getting Started 🚀
 
-To get started with these projects, simply click on the provided demo links to see them in action on Codepen. If you want to dive into the code and experiment further, you can also find the GitHub repository links for each project. 🛠️
+To get started with these projects, simply click visit the website URL to see them in action on Codepen. If you want to dive into the code and experiment further, you can also find the CodePen links for each project. 🛠️
 
 ### Prerequisites 📋
 
@@ -54,6 +74,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new proje
 
 ## License 📝
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as you see fit. If you feature any of these projects in your own work, I'd appreciate a shout-out and a link back to this Codepen Gallery.
+This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as you see fit. 
 
+---
 Enjoy exploring my Codepen projects, and let's keep creating awesome web experiences together! 🌟🌐
