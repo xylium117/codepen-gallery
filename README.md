@@ -15,7 +15,7 @@ Welcome to my Codepen Gallery! Here, you'll find a collection of my creative pro
 
 ## Overview 🌟
 
-![Codepen Gallery Preview](insert-image-link-here)
+![Codepen Gallery Preview](screen-capture.gif)
 
 In this repository, I've curated a selection of my best work from [Codepen](https://codepen.io/). Whether you're a developer looking for code inspiration or just a curious soul exploring creative web projects, you've come to the right place! 🌐
 
